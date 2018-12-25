@@ -14,6 +14,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
+cd module
 python2 log.py
 
 figlet VanLx  | lolcat
