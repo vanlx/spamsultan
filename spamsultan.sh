@@ -51,23 +51,23 @@ read -p "~" pil;
 # Nmap
 
 case $pil in
-1) cd module
+1)
 php a.php
 ;;
 
-2) cd module
+2)
 php b.php
 ;;
 
-3) cd module
+3)
 php c.php
 ;;
 
-4) cd module
+4)
 php d.php
 ;;
 
-5) cd module
+5)
 php e.php
 
 ;;
